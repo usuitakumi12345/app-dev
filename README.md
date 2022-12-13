@@ -5,11 +5,11 @@ My first repository
 ### My Favorite Anime Series
 ---
 ### 1.[Kaguya-Sama: Love is War]
-![image](https://www.animenewsnetwork.com/images/encyc/A21401-991568125.1544081652.jpg)
+![image](https://m.media-amazon.com/images/M/MV5BYjEwNjEwYzgtZGZkMy00MTBjLTg2MmYtNDk0MzY2NmU0MmNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg)
 ![Kaguya-Sama: Love is War] (https://www.viu.com/ott/ph/en-us?r=search&screen=Home&keyword=Kaguya+Sama&user_input=Kaguya+Sama&keyword_group=)
 ---
 ### 2.[Classroom of the Elite]
-![image](https://static.tvtropes.org/pmwiki/pub/images/classroom_of_the_elite_s1.png)
+![image](https://i.pinimg.com/originals/7d/4b/1b/7d4b1bd31b316c272d14f8215fd762e7.png)
 ![Classroom of the Elite] (https://www.netflix.com/jp-en/title/80193178)
 ---
 ### 3.[Attack on Titan]
